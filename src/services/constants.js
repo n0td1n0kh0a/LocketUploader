@@ -1,8 +1,8 @@
 const constants = {
     apiRoutes: {
-        LOGIN_URL: "https://locketuploader-be-render.onrender.com/locket/login",
+        LOGIN_URL: "https://locket-backend.dinokhoa.online/locket/login",
         UPLOAD_MEDIA_URL:
-            "https://locketuploader-be-render.onrender.com/locket/upload-media",
+            "https://locket-backend.dinokhoa.online/locket/upload-media",
     },
     toastSettings: {
         position: "bottom-right",
